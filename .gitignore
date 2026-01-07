@@ -1,0 +1,22 @@
+# Exclude experimental files
+DMFINAL.py
+EDA_and_Modeling.py
+test.py
+try.py
+
+# Python
+__pycache__/
+*.py[cod]
+*.so
+.Python
+*.egg-info/
+dist/
+build/
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
